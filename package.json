@@ -75,7 +75,7 @@
     "strip-indent": "^1.0.1",
     "supports-color": "^2.0.0",
     "tough-cookie": "^2.4.3",
-    "trim-newlines": "^1.0.0",
+    "trim-newlines": "^3.0.1",
     "tunnel-agent": "^0.6.0",
     "tweetnacl": "^0.14.5"
   },
