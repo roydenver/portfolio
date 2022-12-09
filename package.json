@@ -51,7 +51,7 @@
     "pseudomap": "^1.0.2",
     "psl": "^1.1.32",
     "punycode": "^2.1.1",
-    "qs": "^6.5.2",
+    "qs": "^6.5.3",
     "redent": "^1.0.0",
     "repeating": "^2.0.1",
     "require-directory": "^2.1.1",
